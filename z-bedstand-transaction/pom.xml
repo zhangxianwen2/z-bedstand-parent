@@ -19,11 +19,13 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
+            <!-- 此依赖为个人工具，可访问https://github.com/zhangxianwen2/z-parent/tree/master/z-boot-starter-dynamic-datasource获取-->
             <groupId>com.seven</groupId>
             <artifactId>z-boot-starter-dynamic-datasource</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
+            <!-- 此依赖为个人工具，可访问https://github.com/zhangxianwen2/z-parent/tree/master/z-spring-cloud-api-starter获取-->
             <groupId>com.seven</groupId>
             <artifactId>z-spring-cloud-api-starter</artifactId>
             <version>1.0-SNAPSHOT</version>
